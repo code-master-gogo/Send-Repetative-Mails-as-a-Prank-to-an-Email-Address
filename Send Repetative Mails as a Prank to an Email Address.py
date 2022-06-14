@@ -15,11 +15,11 @@ user = 'ENTER YOUR MAIL ID'
 #enter your app password here (don't use your mail's password rather create an app password and enter it here)
 password = 'ENTER APP PASSWORD'
 
-#enter reciever's email address here
-fr_address = 'ENTER RECIEVERS MAIL ID'
+#enter user's/sender's email address here 
+fr_address = 'ENTER SENDERS MAIL ID'
 
-#enter user's/sender's email address here
-to_address = 'ENTER SENDERS MAIL ID'
+#enter reciever's email address here
+to_address = 'ENTER RECIEVERS MAIL ID'
 
 #enter host address here (use 'smtp.mail.yahoo.com' for yahoo email address i.e. if user has a yahoo email)
 smtp_host = 'smtp.mail.yahoo.com' 
